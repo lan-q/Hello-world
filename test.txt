@@ -1,4 +1,1 @@
-abc
-skskssk
-insert Version 1.0
-INSERT FROM WINDOWS
+github VERSION 1.0
